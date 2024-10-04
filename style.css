@@ -1,0 +1,11 @@
+.lw { font-size: 60px; }
+
+   body { background: #fff1e4; margin: 0; }
+   .layout { width: 970px; margin: 0 auto 10px; background: #a7dcd0;  }
+   .content { margin-right: 350px; padding: 50px; }
+   .sidebar { width: 320px; float: right; background: #a34dd2;  }
+   .footer {
+    clear: both; /* Отмена обтекания */
+    border-top: 10px solid #320757; padding: 10px;
+   }
+  
